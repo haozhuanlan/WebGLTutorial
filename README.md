@@ -66,24 +66,24 @@ WebGL中使用纹理的实例：给地形贴上一张真实的纹理。
 详述了通过WebGL读取、解析并显示glTF格式数据的过程。
 
 # 3. 资源
-其代码已经上传到GitHub：[地址](https://github.com/fafa1899/WebGLTutorial)。个人见解难免有所疏漏，欢迎大家来互相交流。
+其代码已经上传到GitHub：[地址](https://github.com/haozhuanlan/WebGLTutorial)。欢迎大家来互相交流。
 
 [imglink1]:https://github.com/fafa1899/WebGLTutorial/blob/master/1.gif
 [imglink2]:https://github.com/fafa1899/WebGLTutorial/blob/master/2.gif
 
-[netlink1]:https://blog.csdn.net/charlee44/article/details/98474589
-[netlink2]:https://blog.csdn.net/charlee44/article/details/99174844
-[netlink3]:https://blog.csdn.net/charlee44/article/details/100534038
-[netlink4]:https://blog.csdn.net/charlee44/article/details/100830450
-[netlink5]:https://blog.csdn.net/charlee44/article/details/102063461
-[netlink6]:https://blog.csdn.net/charlee44/article/details/102173662
-[netlink7]:https://blog.csdn.net/charlee44/article/details/102251822
-[netlink8]:https://blog.csdn.net/charlee44/article/details/102258440
-[netlink9]:https://blog.csdn.net/charlee44/article/details/102403912
-[netlink10]:https://blog.csdn.net/charlee44/article/details/102536585
-[netlink11]:https://blog.csdn.net/charlee44/article/details/102583215
-[netlink12]:https://blog.csdn.net/charlee44/article/details/102992440
-[netlink13]:https://blog.csdn.net/charlee44/article/details/103333252
-[netlink14]:https://blog.csdn.net/charlee44/article/details/103435039
-[netlink15]:https://blog.csdn.net/charlee44/article/details/104051809
+[netlink1]:https://www.haozhuanlan.com/p/6
+[netlink2]:https://www.haozhuanlan.com/p/7
+[netlink3]:https://www.haozhuanlan.com/p/8
+[netlink4]:https://www.haozhuanlan.com/p/9
+[netlink5]:https://www.haozhuanlan.com/p/10
+[netlink6]:https://www.haozhuanlan.com/p/11
+[netlink7]:https://www.haozhuanlan.com/p/12
+[netlink8]:https://www.haozhuanlan.com/p/13
+[netlink9]:https://www.haozhuanlan.com/p/14
+[netlink10]:https://www.haozhuanlan.com/p/15
+[netlink11]:https://www.haozhuanlan.com/p/16
+[netlink12]:https://www.haozhuanlan.com/p/17
+[netlink13]:https://www.haozhuanlan.com/p/18
+[netlink14]:https://www.haozhuanlan.com/p/19
+[netlink15]:https://www.haozhuanlan.com/p/20
 
